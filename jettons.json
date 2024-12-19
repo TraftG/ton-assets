@@ -6500,3 +6500,16 @@
   "symbol": "wTTon"
  }
 ]
+ {
+  "address": "0:007a0c2cae2c2a75ce14c94fb163b0fec012a50a071fe4cc89c4efc9e664f999",
+  "description": "happiest and most well-fed little rabbit!",
+  "image": "https://i.postimg.cc/vHGw4CvP/pp.jpg",
+  "name": "Rabi",
+  "social": [
+   "https://t.me/RabbyCommunity",
+  ],
+  "symbol": "RBI",
+  "websites": [
+   "https://t.me/RabbyCoin_bot"
+  ]
+ },
